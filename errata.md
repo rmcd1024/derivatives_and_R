@@ -7,7 +7,6 @@ Here are errata
 
 |Page | Description | Priority |
 |-----|  ---------- | --------
-|Page | Description | HEre is a long string saying what the errata
- involves, and containing math: $\alpha=\Delta |
+|Page | Description | Here is a long string saying what the errata involves, and containing math: $\alpha=\Delta |
  
 
