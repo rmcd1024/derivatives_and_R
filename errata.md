@@ -5,8 +5,8 @@ author: Robert McDonald
 
 Here are errata
 
-|Page | Description | HEre is a long string saying what the errata
- involves, and containing math: $\alpha=\beta$
+|Page | Description | Priority
+------  -----------   --------
 |Page | Description | HEre is a long string saying what the errata
  involves, and containing math: $\alpha=\Delta
  
