@@ -11,3 +11,4 @@ author: "[Robert McDonald](http://www.kellogg.northwestern.edu/faculty/directory
 
 For now, see [here](http://derivatives.kellogg.northwestern.edu)
 
+Here is a [test file](errata.md)
