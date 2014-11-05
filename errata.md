@@ -1,4 +1,4 @@
-#Errata for _Derivatives Markets_ 3rd edition
+#Errata
 
 Here are errata
 
